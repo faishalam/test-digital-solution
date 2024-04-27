@@ -1,0 +1,1 @@
+npx sequelize-cli model:generate --name User --attributes merk:string,jenis:string,stock:integer,harga:integer,keterangan:integer
